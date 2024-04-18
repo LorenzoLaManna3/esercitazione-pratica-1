@@ -1,0 +1,16 @@
+.sfondohero img {
+    width: 100vw;
+}
+
+img:active {
+    transform: rotate3d(1, 0, 1, 180deg);
+    transition-timing-function: 2;
+    perspective: 20rem;
+    line-height: 100px;
+}
+
+
+img {
+    transform: rotate3d(0);
+    transition: 1500ms;
+}
