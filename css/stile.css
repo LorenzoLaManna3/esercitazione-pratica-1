@@ -4,7 +4,8 @@ html {
 
 
 img {
-    image-rendering: optimizeQuality;
+    /*image-rendering: optimizeQuality;
+    rimoaao per prova*/
 }
 
 
@@ -97,7 +98,6 @@ header section, footer section {
 nav {
     display: block;
     unicode-bidi: isolate;
-    padding-right: 20px;
 }
 
 nav ul {
