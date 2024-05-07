@@ -16,12 +16,13 @@
 }
 
 
-#imgmodal {
+.imgmodal {
     cursor: pointer;
     transition: 0.3s;
 }
 
-#imgmodal:hover {
+.imgmodal:hover {
+    border-radius: 50px;
     opacity: 0.8;
 }
 
